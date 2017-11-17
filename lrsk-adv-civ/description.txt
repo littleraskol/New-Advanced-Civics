@@ -1,0 +1,50 @@
+NEW ADVANCED CIVICS
+A small collection of impactful civics that will hopefully shape gameplay in substantial ways. The idea of an "advanced civic" is that it is more complex than most civics in the base game. In most cases, this means that it will include several advantages and some disadvantages. In a few cases, this means that there are special in-game abilities or events that are unavailable otherwise. The hope is that these civics will alter the way you play the game. The more complex and flavorful civic additions come with their own new government types. 
+
+1. New Civics
+
+Shapers (Not Essentialists or Artificers) - In the philosophical-ideological dispute over the value of knowledge, this society ultimately decided that it is life that matters most to living beings, and its careful cultivation is the highest purpose of knowledge. (+15% food output, -10% genetic modification cost, +5% habitability, -5% non-society research)
+
+Artificers (Not Essentialists or Shapers) - In the philosophical-ideological dispute over the value of knowledge, this society ultimately decided that the things sapient beings create, their tools and crafts, that matter most. (-10% ship upgrade cost, +10% robot output, +10% robot build speed, -5% non-engineering research)
+
+Essentialists (Not Artificers or Shapers) - In the philosophical-ideological dispute over the value of knowledge, this society ultimately decided that solving the deepest and most abstract mysteries of the very fabric of reality are the true purpose of knowledge. (+15% sensor range and FTL speed, -5% non-physics research)
+
+Figurehead Monarchy (Not Imperial) - This society's government technically has a monarchy, but the monarch wields only indirect power, mostly through cultural influence, and is a useful (if expensive) unifying figure. (+10% unity and influence production, -10% unrest, -5% energy and mineral production)
+
+Exotic Graces (Fanatic Xenophile or Pacifist and Xenophile) - This culture has made it not just a point of basic etiquette but a matter of correct ethical behavior to understand and embrace foreign ways. This can be an expensive and sometimes disruptive tendency. (+2.5% other species happiness, +25% xeno migration attraction, -5% tradition cost per alien species, +5% trade attractiveness, +1% unity per federation member, -10% governing ethos attraction, +10% consumer goods use)
+
+Sortition (Democratic and Egalitarian, no Republicanism, Figurehead Monarchy, Meritocracy, or Technocracy) - This society believes so strongly in the equality of all its citizens and the need to curb accumulations of power that it selects its leadership randomly. While there are elections for important positions, the candidates are actually chosen by lot. (Leader pool size +2, leader capacity +5, leader influence cost -25%, happiness +10%, election influence cost +100%)
+
+Special Features:
+-A number of special leader traits that can be randomly assigned to leaders on generation and may change over time: Unready (slower leveling and worse at job), Groomed for Office (slower leveling and better at job), Advising Tutors (faster leveling and worse at job), and Ambitious (faster leveling and better at job).
+-Ostracization events targeting Ambitious leaders.
+
+Otherworldly (Fanatic Materialist or Fanatic Spiritualist) - This civilization seems nearly insane from an outside perspective. It's speculated that they made a discovery that broke them, socially, culturally, and psychologically. It is as if they no longer truly belong in this universe. Needless to say, dealing with them is very difficult, but they may prove useful if any outside context problems show up. (+10% FTL speed, -5% anomaly fail chance, +10% anomaly find chance, -10% trade attractiveness and trust growth, +10% diplomatic influence cost)
+
+Special Features:
+-"Revelation" leader traits granting bonuses in their job fields. These can be randomly assigned when leaders are spawned, or generated from a ~spooky~ event chain.
+-"Forbidden Lore" techs that provide bonus damage against leviathans and crisis ships, refund their tech point cost when researched, and provide a unity generation bonus for researching.
+
+Aspiring Ascendants (Any fanatical ethos) - This civilization has ardent convictions and grandiose ambitions. They believe, with a solar intensity, that their values are meant to be written in the laws of the universe. They intend to carve them there or burn out trying. (+10% governing ethos attraction and unity production, -15% terraform cost and completion time, -10% megastructure cost and build time, +10% governing ethics attraction penalty due to distance, expansion influence cost, and expansion effect on Tradition cost.)
+
+Special Features:
+-"War of Audacity" edict (+15% damage vs. Fallen and Awakened Empires, costs 1 influence per month)
+-Special "Aspiration" ascension perk granting progress towards high-level techs and an immediate second ascension perk pick. Unlocked by completing specific traditions according to the empire's fanatic ethos: Diplomacy (Xenophile or Pacifist), Discovery (Xenophile or Materialist), Domination (Spiritualist or Authoritarian), Expansion (Materialist, Xenophobe, or Militarist), Harmony (Egalitarian or Spiritual), Prosperity (Egalitarian or Pacifist), Supremacy (Militarist, Xenophobe, or Authoritarian).
+
+Techno-Barbarism (Spiritualist, Authoritarian) - The superstitious heirs to an advanced civilization, they have forgotten more of science than most empires ever discover. Unfortunately, they remember little and misunderstand much of that. Fortunately, their technology was designed very well. (-10% building upkeep, cost, and build speed, +15% army damage and health, -1 research alternative)
+
+Special Features:
+-Ability (and obligation!) to undertake special salvage missions that can provide great rewards at high risks.
+-Unique Ancient Ruins building on homeworld that can be enhanced by salvage missions... or destroyed to reform your empire's culture.
+-Loot technology points or capture alien scientists when invading a planet.
+-"Techno-Ritual Piety" policies: 
+--Full (Default): +15% ship HP, shields, armor, and evasion, -10% research speed, +20% scientist recruit cost.
+--Lapsed: +10% ship HP, shields, armor, and evasion; +5% emergency FTL damage, -7.5% research speed, +15% scientist recruit cost.
+--Token: +5% ship HP, shields, armor, and evasion; +10% emergency FTL damage, -5% research speed, +10% scientist recruit cost.
+--None: +15% emergency FTL damage, -2.5% research speed, +5% scientist recruit cost, +1 research alternative.
+
+3. Known Issues
+
+-In the base game, certain events (the Prethoryn and Unbidden crises, most critically) check to see if the player has certain set defined governments to determine what response to give. However, the default "OK" response doesn't start the crisis events. This means that if you're using any mod-added governments, it doesn't seem that you can start the crises. Fortunately, there are mods out there that fix this: First, [url=http://steamcommunity.com/sharedfiles/filedetails/?id=785269836]Event Bugfixes[/url] by ECHO fixes just this issue. Second, [url=http://steamcommunity.com/sharedfiles/filedetails/?id=803752381]Second, Risa's Unofficial Patch to 1.7.2[/url] fixes this and many more bugs besides.
+
+WARNING: I haven't exactly tested any of these in new games. So please do tell me if anything is broken, or unbalanced, or you have a better idea for something. It's very WIP right now. Honestly, the complexity and scope of these civics leads me to believe that a lot of them may be pretty broken! Tell me about it.
